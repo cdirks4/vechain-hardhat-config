@@ -8,14 +8,3 @@ Try running some of the following tasks:
 npm i
 npx hardhat run scripts/deploy.ts --network vechain_testnet 
 ```
-# vechain-hardhat-config
-# vechain-hardhat-config
-# vechain-hardhat-config
-# vechain-hardhat-config-
-# vechain-hardhat-config-
-# vechain-hardhat-config-
-# vechain-hardhat-config-
-# vechain-hardhat-config
-# vechain-hardhat-config
-# vechain-hardhat-config
-# vechain-hardhat-config
